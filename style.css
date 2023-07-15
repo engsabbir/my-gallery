@@ -1,0 +1,21 @@
+*{
+    font-family: 'Lugrasimo', cursive;
+}
+body{
+    text-align: center;
+}
+.photographer-profile img{
+    height: 100px;
+    width: 100px;
+}
+.feed-info{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.feed-info-part{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(201, 197, 197);
+    border-radius: 5px;
+}
